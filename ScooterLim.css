@@ -1,0 +1,60 @@
+body{
+  background-image:url(background.jpg);
+  background-size: cover;
+  color: white;
+}
+
+.container{
+  width:1000px;
+  margin: auto;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.logo{
+  width: 350px;
+  padding-left: 300px;
+}
+
+.logo-text{
+  font-size: 30px;
+  color: green;
+  text-align: center;
+}
+
+.prenotazioni{
+  width: 98%;
+  height: 50px;
+  background: green;
+  text-align: center;
+  display: inline-block;
+}
+
+.MonopattinoGino{
+  display: inline-block;
+}
+
+.MonopattinoMike{
+  display: inline-block;
+}
+
+.MonopattinoFede{
+  display: inline-block;
+}
+
+.Statocarica1{
+  width: 30%;
+  height: 20px;
+  background: yellow;
+}
+
+.Statocarica2{
+  width: 70%;
+  height: 20px;
+  background: green
+}
+
+.Statocarica3{
+  width: 15%;
+  height: 20px;
+  background: red;
+}
